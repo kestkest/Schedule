@@ -1,1 +1,2 @@
 # Schedule
+self educational project :)
